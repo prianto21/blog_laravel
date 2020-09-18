@@ -1,0 +1,8 @@
+untuk mengecek font awasome bisa ke alamat
+fontawasome.com/cheatsheet/free/solid
+untuk login pada laravel versi 6 ke atas menggunakan
+composer require laravel/ui --dev
+lanjut ke
+php artisan ui vue --auth
+untuk memanggil css dan js login maka
+npm install && npm run dev
